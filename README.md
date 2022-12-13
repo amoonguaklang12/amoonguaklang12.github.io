@@ -1,6 +1,4 @@
----
-title: "Module 11 Challenge"
----
+# Designing a Website
 
 <div id="bootcamp"><p><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-1/m11/lms/img/banner.jpg" alt="lesson banner" /></p>
 
