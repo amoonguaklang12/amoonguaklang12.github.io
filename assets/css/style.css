@@ -1,0 +1,16 @@
+.body {
+  background-color: red;
+}
+
+.card-title {
+  color:darkcyan;
+  font-weight: bold;
+}
+
+.navbar-expand-lg .navbar-brand {
+  background-color: darkcyan; 
+  color: white;
+  size-adjust: 15px;
+  font-weight: bold;
+  
+}
